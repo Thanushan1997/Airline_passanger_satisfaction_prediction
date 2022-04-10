@@ -1,0 +1,12 @@
+,customer_type,type_of_travel,inflight_wifi_service,online_boarding,seat_comfort,inflight_entertainment,onboard_service,baggage_handling,checkin_service,inflight_service
+0,Loyal Customer,Personal Travel,3,3,5,5,4,4,4,5
+1,disloyal Customer,Business travel,3,3,1,1,1,3,1,4
+2,Loyal Customer,Business travel,2,5,5,5,4,4,4,4
+3,Loyal Customer,Business travel,2,2,2,2,2,3,1,4
+4,Loyal Customer,Business travel,3,5,5,3,3,4,3,3
+5,Loyal Customer,Personal Travel,3,2,1,1,3,4,4,4
+6,Loyal Customer,Personal Travel,2,2,2,2,3,4,3,5
+7,Loyal Customer,Business travel,4,5,5,5,5,5,4,5
+8,Loyal Customer,Business travel,1,3,3,1,1,1,4,1
+9,disloyal Customer,Business travel,3,3,3,2,2,4,4,3
+10,disloyal Customer,Business travel,4,5,2,2,3,5,3,5
